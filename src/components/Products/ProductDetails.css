@@ -1,0 +1,15 @@
+.productDContainer{
+    width: 1000px;
+    height: 400px;
+    margin: 100px auto;
+    display: flex;
+}
+
+.imageContainer{
+    width: 40%;
+}
+
+.contentContainer{
+    width: 60%;
+    padding: 20px;
+}

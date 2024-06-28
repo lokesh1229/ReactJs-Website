@@ -1,0 +1,5 @@
+https://randomuser.me/api/?results=50
+
+
+Single Product api
+'https://fakestoreapi.com/products/${id}

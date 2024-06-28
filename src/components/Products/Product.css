@@ -1,0 +1,11 @@
+.productsCard{
+    width: 275px;
+    box-shadow: 0 0 10px gray;
+    padding: 20px;
+    align-content: center;
+    height: 450px;
+}
+
+.productsCard img :hover{
+    
+}

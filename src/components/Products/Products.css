@@ -1,0 +1,12 @@
+.products{
+    text-align: center;
+    margin-top: 50px;
+}
+.productsSection{
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+    row-gap: 20px;
+}
